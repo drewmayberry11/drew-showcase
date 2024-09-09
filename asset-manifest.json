@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drew-showcase/static/css/main.f855e6bc.css",
+    "main.js": "/drew-showcase/static/js/main.09afda85.js",
+    "static/js/453.c605a3b0.chunk.js": "/drew-showcase/static/js/453.c605a3b0.chunk.js",
+    "index.html": "/drew-showcase/index.html",
+    "main.f855e6bc.css.map": "/drew-showcase/static/css/main.f855e6bc.css.map",
+    "main.09afda85.js.map": "/drew-showcase/static/js/main.09afda85.js.map",
+    "453.c605a3b0.chunk.js.map": "/drew-showcase/static/js/453.c605a3b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.09afda85.js"
+  ]
+}
